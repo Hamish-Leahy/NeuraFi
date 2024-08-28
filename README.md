@@ -51,7 +51,9 @@ NeuraFi aims to empower individuals to take control of their financial future by
     * Conduct thorough testing and gather user feedback.
     * Iterate on the product based on real-world usage.
 
-**Technology Stack (Tentative)**
+
+
+**Technology (Tentative)**
 
 * **Frontend:** React, Next.js, Tailwind CSS
 * **Backend:** Node.js, Express, PostgreSQL
