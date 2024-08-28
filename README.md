@@ -4,9 +4,11 @@ Revolutionizing personal finance with AI.
 
 **Project Vision**
 
+
 NeuraFi aims to empower individuals to take control of their financial future by providing personalized financial forecasts, AI-driven advice, and intelligent tools for managing their money.
 
 **Core Features (Planned)**
+
 
 * **Personalized Financial Forecasting:** Leverage machine learning to analyze user data and generate accurate short-term and long-term financial forecasts. Visualize potential scenarios based on current habits and future goals.
 * **AI-Driven Financial Advisor:** Offer proactive and personalized financial guidance through natural language processing. Answer user questions and provide tailored advice on budgeting, investing, saving, and more. 
@@ -15,9 +17,10 @@ NeuraFi aims to empower individuals to take control of their financial future by
 
 **Additional Features (Potential)**
 
+
 * **Gamification:** Incorporate interactive elements to make financial management more engaging.
 * **Community & Collaboration:** Create a platform for users to share progress, seek advice, and learn from others.
-* **Open Banking Integration:** Seamlessly connect with various financial institutions for comprehensive data access.
+* **Open Banking Integration:** Seamlessly connect with variousfinancial institutions for comprehensive data access.
 
 **Milestones**
 
